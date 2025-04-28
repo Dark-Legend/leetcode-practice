@@ -8,11 +8,10 @@ I'll be updating this repository daily with new problems I solve.
 
 ## 📅 Progress Tracker
 
-|  #  | Problem Name           | Problem Link                                                     | Solution                                         |
-| :-: | :--------------------- | :--------------------------------------------------------------- | :----------------------------------------------- |
-|  1  | Two Sum                | [🔗 Link](https://leetcode.com/problems/two-sum/)                | [✅ Code](./solutions/two-sum.js)                |
-|  2  | Valid Anagram          | [🔗 Link](https://leetcode.com/problems/valid-anagram/)          | [✅ Code](./solutions/valid-anagram.js)          |
-|  3  | Merge Two Sorted Lists | [🔗 Link](https://leetcode.com/problems/merge-two-sorted-lists/) | [✅ Code](./solutions/merge-two-sorted-lists.js) |
+- **[Two Sum](https://leetcode.com/problems/two-sum/)** → [✅ Solution](./solutions/two-sum/twoSum.js)
+- **[Remove Duplicate](https://leetcode.com/problems/single-number/)** → [✅ Solution](./solutions/single-number/singleNumber.js)
+- **[Remove Duplicate from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)** → [✅ Solution](./solutions/remove-duplicate-array/removeDuplicate.js)
+- **[Plus One](https://leetcode.com/problems/plus-one/description/)** → [✅ Solution](./solutions/plus-one/plusOne.js)
 
 > 📌 _Note: The `solutions/` folder will contain my solutions organized by problem names or numbers._
 
