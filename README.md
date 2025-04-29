@@ -13,6 +13,7 @@ I'll be updating this repository daily with new problems I solve.
 - **[Remove Duplicate from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)** → [✅ Solution](./solution/remove-duplicate-array/removeDuplicate.js)
 - **[Plus One](https://leetcode.com/problems/plus-one/description/)** → [✅ Solution](./solution/plus-one/plusOne.js)
 - **[Group Anagrams](https://leetcode.com/problems/group-anagrams)** → [✅ Solution](./solution/group-anagrams/groupAnagrams.js)
+- **[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)** → [✅ Solution](./solution/top-k-frequent-elements/topKFrequent.js)
 
 > 📌 _Note: The `solutions/` folder will contain my solutions organized by problem names or numbers._
 
