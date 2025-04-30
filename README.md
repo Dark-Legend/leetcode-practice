@@ -14,6 +14,7 @@ I'll be updating this repository daily with new problems I solve.
 - **[Plus One](https://leetcode.com/problems/plus-one/description/)** → [✅ Solution](./solution/plus-one/plusOne.js)
 - **[Group Anagrams](https://leetcode.com/problems/group-anagrams)** → [✅ Solution](./solution/group-anagrams/groupAnagrams.js)
 - **[Top K Frequent Element](https://leetcode.com/problems/top-k-frequent-elements/)** → [✅ Solution](./solution/top-k-frequent-elements/topKFrequent.js)
+- **[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)** → [✅ Solution](./solution/product-of-array/productOfArray.js)
 
 > 📌 _Note: The `solutions/` folder will contain my solutions organized by problem names or numbers._
 
