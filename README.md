@@ -16,7 +16,8 @@ I'll be updating this repository daily with new problems I solve.
 - **[Top K Frequent Element](https://leetcode.com/problems/top-k-frequent-elements/)** → [✅ Solution](./solution/top-k-frequent-elements/topKFrequent.js)
 - **[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)** → [✅ Solution](./solution/product-of-array/productOfArray.js)
 - **[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)** → [✅ Solution](./solution/longest-consecutive-sequence/longestConsecutiveSequence.js)
-- **[Find Indices With Index and Value Difference](https://leetcode.com/problems/find-indices-with-index-and-value-difference-i)** → [✅ Solution](./solution/find-indices-with-index//findIndicesWithIndexDiff.js)
+- **[Find Indices With Index and Value Difference](https://leetcode.com/problems/find-indices-with-index-and-value-difference-i)** → [✅ Solution](./solution/find-indices-with-index/findIndicesWithIndexDiff.js)
+- **[Final Prices With A Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop)** → [✅ Solution](./solution/final-price-with-a-special-discount/finalPriceWithSpecialDiscount.js)
   > 📌 _Note: The `solutions/` folder will contain my solutions organized by problem names or numbers._
 
 ---
