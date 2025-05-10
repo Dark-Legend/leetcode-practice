@@ -22,6 +22,7 @@ I'll be updating this repository daily with new problems I solve.
 - **[Min Stack](https://leetcode.com/problems/min-stack/)** → [✅ Solution](./solution/min-stack/minStack.js)
 - **[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)** → [✅ Solution](./solution/reverse-polish-notation/reversePolishNotation.js)
 - **[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)** → [✅ Solution](./solution/next-greater-element/nextGreaterElement.js)
+- **[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)** → [✅ Solution](./solution/next-greater-second/nextGreaterSecond.js)
   > 📌 _Note: The `solutions/` folder will contain my solutions organized by problem names or numbers._
 
 ---
