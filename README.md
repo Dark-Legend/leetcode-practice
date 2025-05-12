@@ -24,6 +24,7 @@ I'll be updating this repository daily with new problems I solve.
 - **[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)** → [✅ Solution](./solution/next-greater-element/nextGreaterElement.js)
 - **[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)** → [✅ Solution](./solution/next-greater-second/nextGreaterSecond.js)
 - **[Remove K Digits](https://leetcode.com/problems/remove-k-digits/)** → [✅ Solution](./solution/remove-k-digits/removeKDigits.js)
+- **[Sum of Subarray Min](https://leetcode.com/problems/sum-of-subarray-minimums)** → [✅ Solution](./solution/sumOfSubarrayMin/sumOfSubarrayMin.js)
   > 📌 _Note: The `solutions/` folder will contain my solutions organized by problem names or numbers._
 
 ---
