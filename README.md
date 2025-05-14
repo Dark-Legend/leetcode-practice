@@ -26,6 +26,7 @@ I'll be updating this repository daily with new problems I solve.
 - **[Remove K Digits](https://leetcode.com/problems/remove-k-digits/)** → [✅ Solution](./solution/remove-k-digits/removeKDigits.js)
 - **[Sum of Subarray Min](https://leetcode.com/problems/sum-of-subarray-minimums)** → [✅ Solution](./solution/sumOfSubarrayMin/sumOfSubarrayMin.js)
 - **[Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges)** → [✅ Solution](./solution/sumOfSubarrayRanges/sumOfSubarrayRanges.js)
+- **[Asteriod Collision](https://leetcode.com/problems/asteroid-collision)** → [✅ Solution](./solution/asteroid-collision/asteroidCollision.js)
   > 📌 _Note: The `solutions/` folder will contain my solutions organized by problem names or numbers._
 
 ---
