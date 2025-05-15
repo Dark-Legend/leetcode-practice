@@ -27,6 +27,7 @@ I'll be updating this repository daily with new problems I solve.
 - **[Sum of Subarray Min](https://leetcode.com/problems/sum-of-subarray-minimums)** → [✅ Solution](./solution/sumOfSubarrayMin/sumOfSubarrayMin.js)
 - **[Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges)** → [✅ Solution](./solution/sumOfSubarrayRanges/sumOfSubarrayRanges.js)
 - **[Asteriod Collision](https://leetcode.com/problems/asteroid-collision)** → [✅ Solution](./solution/asteroid-collision/asteroidCollision.js)
+- **[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum)** → [✅ Solution](./solution/sliding-window-maximum/slidingWindowMaximum.js)
   > 📌 _Note: The `solutions/` folder will contain my solutions organized by problem names or numbers._
 
 ---
