@@ -31,6 +31,7 @@ I'll be updating this repository daily with new problems I solve.
 - **[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram)** → [✅ Solution](./solution/largest-rectangle-in-histogram/largestRectangleInHistogram.js)
 - **[Online Stock Spans](https://leetcode.com/problems/online-stock-span)** → [✅ Solution](./solution/online-stock-span/onlineStockSpan.js)
 - **[Daily Temperatures](https://leetcode.com/problems/daily-temperatures)** → [✅ Solution](./solution/daily-temperature/dailyTemperature.js)
+- **[Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum)** → [✅ Solution](./solution/binary-subarrays-with-sum/binarySubarrayWithSum.js)
   > 📌 _Note: The `solutions/` folder will contain my solutions organized by problem names or numbers._
 
 ---
