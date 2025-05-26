@@ -33,6 +33,7 @@ I'll be updating this repository daily with new problems I solve.
 - **[Daily Temperatures](https://leetcode.com/problems/daily-temperatures)** → [✅ Solution](./solution/daily-temperature/dailyTemperature.js)
 - **[Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum)** → [✅ Solution](./solution/binary-subarrays-with-sum/binarySubarrayWithSum.js)
 - **[Baseball Game](https://leetcode.com/problems/baseball-game)** → [✅ Solution](./solution/baseball-game/baseballGame.js)
+- **[Count number of nice subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays)** → [✅ Solution](./solution/count-number-of-nice-subarray/countNumberOfNiceSubarray.js)
   > 📌 _Note: The `solutions/` folder will contain my solutions organized by problem names or numbers._
 
 ---
