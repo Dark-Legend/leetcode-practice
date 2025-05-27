@@ -34,6 +34,7 @@ I'll be updating this repository daily with new problems I solve.
 - **[Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum)** → [✅ Solution](./solution/binary-subarrays-with-sum/binarySubarrayWithSum.js)
 - **[Baseball Game](https://leetcode.com/problems/baseball-game)** → [✅ Solution](./solution/baseball-game/baseballGame.js)
 - **[Count number of nice subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays)** → [✅ Solution](./solution/count-number-of-nice-subarray/countNumberOfNiceSubarray.js)
+- **[Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters)** → [✅ Solution](./solution/number-of-substrings-containing-all-three-characters/allThreeCharacter.js)
   > 📌 _Note: The `solutions/` folder will contain my solutions organized by problem names or numbers._
 
 ---
