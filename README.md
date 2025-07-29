@@ -37,6 +37,7 @@ I'll be updating this repository daily with new problems I solve.
 - **[Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters)** → [✅ Solution](./solution/number-of-substrings-containing-all-three-characters/allThreeCharacter.js)
 - **[Max Points Can Obtain From Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)** → [✅ Solution](./solution/max-points-can-obtain-from-cards/maxPointsCanObtainFromCards.js)
 - **[Max Consecutive III ](https://leetcode.com/problems/max-consecutive-ones-iii)** → [✅ Solution](./solution/max-consecutive/maxConsecutive.js)
+- **[Rotate Array ](https://leetcode.com/problems/rotate-array)** → [✅ Solution](./solution/rotate-array/rotateArray.js)
   > 📌 _Note: The `solutions/` folder will contain my solutions organized by problem names or numbers._
 
 ---
