@@ -39,6 +39,7 @@ I'll be updating this repository daily with new problems I solve.
 - **[Max Consecutive III ](https://leetcode.com/problems/max-consecutive-ones-iii)** → [✅ Solution](./solution/max-consecutive/maxConsecutive.js)
 - **[Rotate Array ](https://leetcode.com/problems/rotate-array)** → [✅ Solution](./solution/rotate-array/rotateArray.js)
 - **[Array Rotated and Sorted ](https://leetcode.com/check-if-array-is-sorted-and-rotated)** → [✅ Solution](./solution/array-rotated-sorted/arrayRotatedSorted.js)
+- **[Sort Color ](https://leetcode.com/sort-colors)** → [✅ Solution](./solution/sort-colors/sortColors.js
   > 📌 _Note: The `solutions/` folder will contain my solutions organized by problem names or numbers._
 
 ---
