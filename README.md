@@ -42,6 +42,7 @@ I'll be updating this repository daily with new problems I solve.
 - **[Sort Color ](https://leetcode.com/sort-colors)** → [✅ Solution](./solution/sort-colors/sortColors.js)
 - **[Majority Element ](https://leetcode.com/sort-colors)** → [✅ Solution](./solution/major-element/majorElement.js)
 - **[Maximum Subarray ](https://leetcode.com/maximum-subrray)** → [✅ Solution](./solution/maximum-subarray/maximumSubarray.js)
+- **[Rearrange array elements by sign ](https://leetcode.com/rearrange-array-elements-by-sign)** → [✅ Solution](./solution/rearrange-array-elements/rearrangeArrayElements.js)
   > 📌 _Note: The `solutions/` folder will contain my solutions organized by problem names or numbers._
 
 ---
