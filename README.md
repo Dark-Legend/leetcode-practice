@@ -43,6 +43,7 @@ I'll be updating this repository daily with new problems I solve.
 - **[Majority Element ](https://leetcode.com/sort-colors)** → [✅ Solution](./solution/major-element/majorElement.js)
 - **[Maximum Subarray ](https://leetcode.com/maximum-subrray)** → [✅ Solution](./solution/maximum-subarray/maximumSubarray.js)
 - **[Rearrange array elements by sign ](https://leetcode.com/rearrange-array-elements-by-sign)** → [✅ Solution](./solution/rearrange-array-elements/rearrangeArrayElements.js)
+- **[Subarray sum equals k ](https://leetcode.com/subarray-sum-equals-k)** → [✅ Solution](./solution/subarray-sum-equals-k/subarraySumEqualsK.js)
   > 📌 _Note: The `solutions/` folder will contain my solutions organized by problem names or numbers._
 
 ---
