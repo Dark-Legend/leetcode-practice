@@ -44,7 +44,8 @@ I'll be updating this repository daily with new problems I solve.
 - **[Maximum Subarray ](https://leetcode.com/maximum-subrray)** → [✅ Solution](./solution/maximum-subarray/maximumSubarray.js)
 - **[Rearrange array elements by sign ](https://leetcode.com/rearrange-array-elements-by-sign)** → [✅ Solution](./solution/rearrange-array-elements/rearrangeArrayElements.js)
 - **[Subarray sum equals k ](https://leetcode.com/subarray-sum-equals-k)** → [✅ Solution](./solution/subarray-sum-equals-k/subarraySumEqualsK.js)
-- **[Next Permutation](https://leetcode.com/next-permutation)** → [✅ Solution](./solution/next-permutation/nextPermutation.js)
+- **[Next Permutation](https://leetcode.com/next-permutation)** → [✅ Solution](./solution/next-permutation/nextPermutation.js);
+- **[Major Element II](https://leetcode.com/major-element-ii)** → [✅ Solution](./solution/major-element-2/majorElement2.js)
   > 📌 _Note: The `solutions/` folder will contain my solutions organized by problem names or numbers._
 
 ---
