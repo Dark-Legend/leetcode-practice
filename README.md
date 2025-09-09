@@ -50,6 +50,7 @@ I'll be updating this repository daily with new problems I solve.
 - **[Maximum Product Subarray](https://leetcode.com/merge-sorted-array)** → [✅ Solution](./solution/maximum-product-subarray/maximumProductSubarray.js)
 - **[Reverse Pairs](https://leetcode.com/reverse-pairs)** → [✅ Solution](./solution/reverse-pairs/reversePairs.js)
 - **[4 Sum](https://leetcode.com/4sum)** → [✅ Solution](./solution/4sum/4sum.js)
+- **[Merge Intervals](https://leetcode.com/merge-intervals)** → [✅ Solution](./solution/merge-intervals/mergeIntervals.js)
   > 📌 _Note: The `solutions/` folder will contain my solutions organized by problem names or numbers._
 
 ---
