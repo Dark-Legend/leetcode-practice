@@ -51,6 +51,7 @@ I'll be updating this repository daily with new problems I solve.
 - **[Reverse Pairs](https://leetcode.com/reverse-pairs)** → [✅ Solution](./solution/reverse-pairs/reversePairs.js)
 - **[4 Sum](https://leetcode.com/4sum)** → [✅ Solution](./solution/4sum/4sum.js)
 - **[Merge Intervals](https://leetcode.com/merge-intervals)** → [✅ Solution](./solution/merge-intervals/mergeIntervals.js)
+- **[Insert Interval](https://leetcode.com/insert-interval)** → [✅ Solution](./solution/insert-interval/insertInterval.js)
   > 📌 _Note: The `solutions/` folder will contain my solutions organized by problem names or numbers._
 
 ---
