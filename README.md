@@ -52,6 +52,7 @@ I'll be updating this repository daily with new problems I solve.
 - **[4 Sum](https://leetcode.com/4sum)** → [✅ Solution](./solution/4sum/4sum.js)
 - **[Merge Intervals](https://leetcode.com/merge-intervals)** → [✅ Solution](./solution/merge-intervals/mergeIntervals.js)
 - **[Insert Interval](https://leetcode.com/insert-interval)** → [✅ Solution](./solution/insert-interval/insertInterval.js)
+- **[Find First and Last position of the element in sorted array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)** → [✅ Solution](./solution/find-first-and-last-position/findFirstAndLastPosition.js)
   > 📌 _Note: The `solutions/` folder will contain my solutions organized by problem names or numbers._
 
 ---
