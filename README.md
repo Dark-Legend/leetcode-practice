@@ -54,6 +54,7 @@ I'll be updating this repository daily with new problems I solve.
 - **[Insert Interval](https://leetcode.com/insert-interval)** → [✅ Solution](./solution/insert-interval/insertInterval.js)
 - **[Find First and Last position of the element in sorted array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)** → [✅ Solution](./solution/find-first-and-last-position/findFirstAndLastPosition.js)
 - **[Single Element in a sorted array](https://leetcode.com/problems/single-element-in-a-sorted-array)** → [✅ Solution](./solution/single-element-in-a-sorted-array/singleElementInSortedArray.js)
+- **[Search in Rotate Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)** → [✅ Solution](./solution/search-in-rotated-sorted-array)
   > 📌 _Note: The `solutions/` folder will contain my solutions organized by problem names or numbers._
 
 ---
